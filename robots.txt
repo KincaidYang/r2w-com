@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://r2wind.com/sitemap.xml
